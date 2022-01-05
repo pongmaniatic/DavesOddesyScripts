@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e5e247d454c2643a52d8e3c0e46fa2, type: 3}
+  m_Name: Act 2
+  m_EditorClassIdentifier: 
+  nameOfQueue: 
+  queueActive: 0
+  dialogues:
+  - {fileID: 11400000, guid: 9516672d11773a442ab85be67ca38177, type: 2}
+  - {fileID: 11400000, guid: 6e314731a92b41b45a1d2658fad3bdb6, type: 2}
+  - {fileID: 11400000, guid: 46ed9f2224e788c40917f43e88c7d492, type: 2}
+  - {fileID: 11400000, guid: 91f2ff51b3e35974e9cff504884dc163, type: 2}
+  - {fileID: 11400000, guid: 4854d61b12ec0594a82c1730d9e0e043, type: 2}
+  - {fileID: 11400000, guid: d41f932619c1df04e932729778aceee7, type: 2}
+  - {fileID: 11400000, guid: e679b551dcd5a304bbfa72ff7cd250d8, type: 2}
+  dialoguesHidden:
+  - {fileID: 11400000, guid: d41f932619c1df04e932729778aceee7, type: 2}
+  - {fileID: 11400000, guid: e679b551dcd5a304bbfa72ff7cd250d8, type: 2}

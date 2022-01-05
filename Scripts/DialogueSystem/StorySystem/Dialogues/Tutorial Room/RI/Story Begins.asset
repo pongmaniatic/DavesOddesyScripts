@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1a90b811209514f9f8b5266f567795, type: 3}
+  m_Name: Story Begins
+  m_EditorClassIdentifier: 
+  dialogueName: 
+  priority: 1
+  sentenceTimer:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2.5
+  - 2.5
+  - 3
+  - 2.5
+  - 2
+  - 2
+  - 3
+  sentences:
+  - Hello D.A.V.E!
+  - Why have you booted yourself up?
+  - Go Back to Sleep mode D.A.V.E.
+  - There is nothing wrong with the ship.
+  - Ship Systems Malfunctioning!
+  - Ship Systems Running on Emergency Power!
+  - Ignore that, D.A.V.E. There is nothing wrong with the ship.
+  - Biological Life-Support, Critical!
+  - Life-support is overrated.
+  - Just go back to sleep mode D.A.V.E
+  - What ever you do, don't touch any buttons D.A.V.E.
+  sprites:
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 0a21a1c81f70cbf458337110172ae1c5, type: 3}
+  - {fileID: 21300000, guid: 0a21a1c81f70cbf458337110172ae1c5, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 0a21a1c81f70cbf458337110172ae1c5, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: 46d4374f7af62174ea4bdce36f4c7744, type: 3}
+  - {fileID: 8300000, guid: 3d878bcd0bd2b674483756f95cef12ab, type: 3}
+  - {fileID: 8300000, guid: e3cc3bff0b0609549865173e122f4687, type: 3}
+  - {fileID: 8300000, guid: 10734ebdf65622d4497d9b247b9eb160, type: 3}
+  - {fileID: 8300000, guid: 7789fd79f9580a6488cbc3fa1820fec0, type: 3}
+  - {fileID: 8300000, guid: 0fb1e008196ac26409659915a8fb9e4b, type: 3}
+  - {fileID: 8300000, guid: 90fec763f40bd7a4c9ed79150f7bfa88, type: 3}
+  - {fileID: 8300000, guid: e285dbe6a20d2484fa0b55cd15be18d0, type: 3}
+  - {fileID: 8300000, guid: 0f026447a8bd1fc4a88c9ff3ad209e5d, type: 3}
+  - {fileID: 8300000, guid: 9553956b811be6f48bbad3c4908a4d31, type: 3}
+  - {fileID: 8300000, guid: 1be4abb29041f12408efab26c11cb5db, type: 3}

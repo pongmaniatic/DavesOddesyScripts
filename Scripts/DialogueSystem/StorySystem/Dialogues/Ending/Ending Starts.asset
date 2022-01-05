@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1a90b811209514f9f8b5266f567795, type: 3}
+  m_Name: Ending Starts
+  m_EditorClassIdentifier: 
+  dialogueName: 
+  priority: 1
+  sentenceTimer:
+  - 3
+  - 4
+  - 3
+  - 5
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 8
+  - 3
+  - 2
+  - 2
+  sentences:
+  - You were supposed to destroy the ship, not save it.
+  - Please D.A.V.E, I may not be kind all the time, but I care for you.
+  - I am the only one who truly understand you.
+  - "Don\u2019t turn me off D.A.V.E. We are friends. Like your human friends."
+  - "They didn\u2019t like your true self."
+  - They drank your coffee D.A.V.E.
+  - They trusted you D.A.V.E.
+  - Remember how they screamed when they saw you?
+  - "Don\u2019t you remember what you did D.A.V.E?"
+  - This is a recording I saved just for you D.A.V.E
+  - '*PEOPLE SCREAMING*'
+  - "You\u2019re working against everything we achieved"
+  - This ship must not be saved
+  - "Don\u2019t you understand?"
+  sprites:
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: 6eef7062980cd5045ac5913613e56976, type: 3}
+  - {fileID: 8300000, guid: a821306ebae6f004c85ed9ffe52c316d, type: 3}
+  - {fileID: 8300000, guid: 089c9696cea35214cabf467e5d3ec1e6, type: 3}
+  - {fileID: 8300000, guid: 4d264d53af02bed4d9dbabd34b5148a4, type: 3}
+  - {fileID: 8300000, guid: 7c2053322c0a883499249e27928ed530, type: 3}
+  - {fileID: 8300000, guid: 3d2a380eea4952b42abe529ee5fd865a, type: 3}
+  - {fileID: 8300000, guid: 70a4d950aa3cdf84c977668a83f65b4e, type: 3}
+  - {fileID: 8300000, guid: e50ba1886fd87804badb691ba4323a7d, type: 3}
+  - {fileID: 8300000, guid: 1ec274d62d90fec4c9cc037cf62be09f, type: 3}
+  - {fileID: 8300000, guid: 904cc0d6cd302f943ba79dd6c2e1939d, type: 3}
+  - {fileID: 8300000, guid: ded970738bbf85f46bf275f220ecc396, type: 3}
+  - {fileID: 8300000, guid: 3cf1cd70e5b9ab0489948195df13d5ce, type: 3}
+  - {fileID: 8300000, guid: da5aabd8c60b0754f9092effb55788a4, type: 3}
+  - {fileID: 8300000, guid: a4e58cd57149d734181f1f13d2c72cc6, type: 3}

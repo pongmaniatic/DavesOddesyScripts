@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1a90b811209514f9f8b5266f567795, type: 3}
+  m_Name: Opening Kitchen
+  m_EditorClassIdentifier: 
+  dialogueName: 
+  priority: 0
+  sentenceTimer:
+  - 5
+  - 5
+  sentences:
+  - Alright D.A.V.E, you really want to go on and save the crew that don't need saving?
+  - Since you are determined to continue, I will help you since you are my friend
+    D.A.V.E.
+  sprites:
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: c1de73737446441448a92e0bd6ef7c96, type: 3}
+  - {fileID: 8300000, guid: 8adf4fab2aee1654fbb51d7fb105ab66, type: 3}

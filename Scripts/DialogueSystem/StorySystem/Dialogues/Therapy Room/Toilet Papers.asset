@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1a90b811209514f9f8b5266f567795, type: 3}
+  m_Name: Toilet Papers
+  m_EditorClassIdentifier: 
+  dialogueName: 
+  priority: 1
+  sentenceTimer:
+  - 3
+  - 3.5
+  - 3
+  sentences:
+  - Don't you love toilet pappers D.A.V.E?
+  - There is one thing you should never run out of when traveling in a space ship.
+  - That's right, toilet paper!
+  sprites:
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: 7090d5e0cff2b1d458b8fe076977e349, type: 3}
+  - {fileID: 8300000, guid: 66ffe1705aff3d94081ac4c9e28bb090, type: 3}
+  - {fileID: 8300000, guid: 5bcfb3ad924126c4ea18ab7ab9b13603, type: 3}

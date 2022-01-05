@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1a90b811209514f9f8b5266f567795, type: 3}
+  m_Name: Ending at Bridge
+  m_EditorClassIdentifier: 
+  dialogueName: 
+  priority: 1
+  sentenceTimer:
+  - 2
+  - 2
+  - 2
+  - 2
+  sentences:
+  - Dave. You will infect the entire
+  - Disabling Ship A.I.
+  - Ship navigation system enabled
+  - Please choose your destination
+  sprites:
+  - {fileID: 21300000, guid: 4988e378787d04046b6a896d2e79426e, type: 3}
+  - {fileID: 21300000, guid: 0a21a1c81f70cbf458337110172ae1c5, type: 3}
+  - {fileID: 21300000, guid: 0a21a1c81f70cbf458337110172ae1c5, type: 3}
+  - {fileID: 21300000, guid: 0a21a1c81f70cbf458337110172ae1c5, type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: 4e2890f8477a29646aa56b42048d2794, type: 3}
+  - {fileID: 8300000, guid: fd0998a0e337f254aa7e47e4b2f57bbc, type: 3}
+  - {fileID: 8300000, guid: dbb0e9d2ac54aa443b07b6f21673ec3f, type: 3}
+  - {fileID: 8300000, guid: 345dfc8d054913540bf67477e13b6547, type: 3}
